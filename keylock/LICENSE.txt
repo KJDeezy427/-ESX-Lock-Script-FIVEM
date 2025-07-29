@@ -1,0 +1,25 @@
+MIT License (Modified for FiveM Key Lock Script)
+
+Copyright (c) 2025 [YourName]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this Key Lock script (the "Software"), to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, subject to the
+following conditions:
+
+1. The above copyright notice and this permission notice shall be included 
+   in all copies or substantial portions of the Software.
+
+2. This script is intended to be freely used within the FiveM community.
+   Commercial resale, repackaging, or paid redistribution is prohibited 
+   without the explicit permission of the original author.
+
+3. Modification and inclusion in public or private servers is allowed.
+
+4. This script is provided "as is", without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose and noninfringement. In no event shall
+   the authors or copyright holders be liable for any claim, damages or other
+   liability arising from the use of this script.
+
+By using or distributing this script, you agree to the above terms.
